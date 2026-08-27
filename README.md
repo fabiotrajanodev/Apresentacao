@@ -24,8 +24,11 @@ Cursando **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do 
 
 ## 🚀 Projetos
 
-**Kontroli** — Aplicação fullstack com frontend e backend  
-[GitHub](https://github.com/fabiotrajano/kontroli) | [Live](https://kontroli.netlify.app)
+**Kontroli** — Aplicação fullstack  
+[Frontend](https://github.com/fabiotrajano/kontroli-frontend) | [Backend](https://github.com/fabiotrajano/kontroli-backend) | [Live](https://kontroli.netlify.app)
+
+**Fenix Assistência Técnica** — Landing page responsiva  
+[GitHub](https://github.com/fabiotrajano/Fenix-Assistencia-Tecnica)
 
 ---
 
@@ -40,6 +43,7 @@ Cursando **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do 
 
 ## 📬 Contato
 
+- **Email**: fabiotrajano.dev@gmail.com
 - **LinkedIn**: [linkedin.com/in/fabiotrajano2911](https://linkedin.com/in/fabiotrajano2911)
 - **GitHub**: [github.com/fabiotrajano](https://github.com/fabiotrajano)
 
