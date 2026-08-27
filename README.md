@@ -18,7 +18,7 @@ Cursando **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do 
 |------|------------|
 | **Frontend** | HTML5, CSS3, JavaScript, React |
 | **Backend** | Node.js |
-| **Outros** | Git, APIs REST, Automação IA |
+| **Outros** | Git, Automação IA |
 
 ---
 
