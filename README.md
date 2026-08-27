@@ -28,7 +28,7 @@ Cursando **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do 
 [Frontend](https://github.com/fabiotrajano/kontroli-frontend) | [Backend](https://github.com/fabiotrajano/kontroli-backend) | [Live](https://kontroli.netlify.app)
 
 **Fenix Assistência Técnica** — Landing page responsiva  
-[GitHub](https://github.com/fabiotrajano/Fenix-Assistencia-Tecnica)
+[GitHub](https://github.com/fabiotrajanodev/Fenix-Assistencia-Tecnica.git) | [Live](https://fenix-assistencia.netlify.app/)
 
 ---
 
